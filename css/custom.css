@@ -41,6 +41,5 @@ footer p {
 }
 
 .img-responsive {
-  width: 100;
-  height: 80;
+  align-content: center;
 }
