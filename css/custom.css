@@ -30,3 +30,9 @@ a:focus {
   text-decoration: none;
   color: #e83363;
 }
+
+footer p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin-top: 10px;
+}
