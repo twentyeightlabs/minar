@@ -33,6 +33,9 @@ a:focus {
   text-decoration: none;
   color: #e83363;
 }
+.navbar-custom .nav li a:hover {
+    color: rgba(247,0,90,1);
+}
 
 footer p {
   font-family: 'Open Sans', sans-serif;
