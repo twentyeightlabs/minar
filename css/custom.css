@@ -60,7 +60,14 @@ footer p {
   -o-background-size: cover;
 }
 
-
+.line {
+    border-top: 2px solid #e83363;
+    height: 60px;
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+}
 
 
 .project-wrapper {
