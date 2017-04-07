@@ -28,10 +28,14 @@ h6 {
   font-family: 'Lato', sans-serif;
 }
 
+a {
+    color: #e83363;
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #e83363;
+  color: rgba(247,0,90,0.7);
 }
 .navbar-custom .nav li a:hover {
     color: rgba(247,0,90,1);
@@ -68,6 +72,8 @@ footer p {
     margin: 0 auto;
     margin-top: 20px;
 }
+
+
 
 
 .project-wrapper {
