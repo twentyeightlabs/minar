@@ -64,6 +64,19 @@ footer p {
   -o-background-size: cover;
 }
 
+.presspack-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background: url(../img/lifestyle-bg.jpg) no-repeat center center scroll;
+  background-attachment: fixed;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 .line {
     border-top: 2px solid #e83363;
     height: 60px;
