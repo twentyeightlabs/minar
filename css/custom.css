@@ -99,7 +99,22 @@ footer p {
     margin-top: 20px;
 }
 
-
+/* Footer */
+nav#footer{
+	background: black;
+	color: #ffffff;
+	/*padding: 15px 0 15px 0;*/
+    font-family: 'Lato', sans-serif;
+}
+nav#footer .fnav{ vertical-align: middle;}
+/*ul.footer-social li{
+	display: inline-block;
+	margin-right: 10px;
+}*/
+nav#footer p{
+	font-size: 12px;
+	margin-top: 10px;
+}
 
 
 .project-wrapper {
